@@ -1,2 +1,0 @@
-discord.py==2.0.0  # The Discord library to interact with the Discord API
-python-dotenv==0.21.1  # For loading environment variables from a .env file
