@@ -8,7 +8,7 @@ on:
     - cron: "*/30 * * * *"  # Schedule the bot to run every 30 minutes (cron syntax)
 
 jobs:
-  run:
+  Botstartup:
     runs-on: ubuntu-latest  # Using the latest version of Ubuntu for the job
     steps:
       - name: Checkout code
